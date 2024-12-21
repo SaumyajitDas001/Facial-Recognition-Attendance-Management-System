@@ -1,0 +1,12 @@
+----------Modules-------------
+
+tkinter module
+pymysql module
+
+mysql-connector-python~=9.1.0
+opencv-python~=4.10.0.84
+Pillow~=10.1.0
+matplotlib~=3.8.1
+numpy~=1.26.2
+PyMySQL~=1.1.1
+opencv-contrib-python~=4.10.0.84
